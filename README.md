@@ -5,8 +5,7 @@
 </div>
 
 # 🌟 **문서 정리에 진심인팀**
-
-(팀 협업 문서 링크 게시)
+[팀 협업 문서 바로가기] (https://www.notion.so/2-1be5e940de598095a073da7e2f525e98?cookie_sync_completed=true)
 
 # 👥 **팀원 구성**
 
