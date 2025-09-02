@@ -181,12 +181,6 @@ backend/
 
 ## **구현 홈페이지**
 
-(개발한 홈페이지에 대한 링크 게시)
-
-https://www.codeit.kr/
+(https://6-studyforest-phytoncide-fs.netlify.app/)
 
 ---
-
-## **프로젝트 회고록**
-
-(제작한 발표자료 링크 혹은 첨부파일 첨부)
