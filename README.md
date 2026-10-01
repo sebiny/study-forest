@@ -3,7 +3,9 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 
 </div>
+## **Live Demo**
 
+[Study Forest](https://6-studyforest-phytoncide-fs.netlify.app/)
 # 🌟 **Study Forest Team**
 
 [Team Collaboration Documents](https://www.notion.so/2-1be5e940de598095a073da7e2f525e98?cookie_sync_completed=true)
@@ -185,6 +187,4 @@ backend/
 
 ---
 
-## **Live Demo**
 
-[Study Forest](https://6-studyforest-phytoncide-fs.netlify.app/)
