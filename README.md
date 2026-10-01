@@ -3,7 +3,6 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 
 </div>
-🌟[Team Collaboration Documents](https://www.notion.so/2-1be5e940de598095a073da7e2f525e98?cookie_sync_completed=true)
 
 # Live Demo
 
